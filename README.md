@@ -40,7 +40,8 @@
 
 ## Screenshots
 
-> *Add screenshots here after deployment*
+<img width="1093" height="839" alt="Screenshot 2026-08-02 215320" src="https://github.com/user-attachments/assets/9197bda8-6109-4def-ba57-cd7256d13f2e" />
+
 
 ---
 
